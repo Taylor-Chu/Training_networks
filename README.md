@@ -1,5 +1,6 @@
 # Proximal denoiser for convergent plug-and-play optimization with nonconvex regularization
 
+## To be updated
 [[Paper](https://arxiv.org/abs/2201.13256)]
 
 [Samuel Hurault](https://www.math.u-bordeaux.fr/~shurault/), [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/), [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/). \
